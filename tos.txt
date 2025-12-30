@@ -1,1 +1,49 @@
+TERMS OF SERVICE
 
+SINGLE USER LICENSE ONLY
+
+Each license key is valid for ONE user on ONE machine only
+
+Sharing, distributing, or reselling your key is strictly prohibited
+
+NO TRANSFERS OR SHARING
+
+Keys cannot be shared between multiple users
+
+Keys cannot be transferred to other individuals
+
+Any unauthorized sharing will result in immediate key termination
+
+STRICT MONITORING
+
+All key usage is monitored and logged
+
+Our system automatically detects multiple usage attempts
+
+Suspicious activity triggers immediate investigation
+
+CONSEQUENCES FOR VIOLATIONS
+
+First violation: Warning and key suspension
+
+Second violation: Permanent key termination
+
+No refunds for terminated keys
+
+Blacklisting from future purchases
+
+HWID BINDING
+
+Your key binds to your unique hardware ID (HWID)
+
+Attempting to use on different hardware will be detected
+
+Legitimate hardware changes require support ticket approval
+
+ZERO TOLERANCE POLICY
+
+We maintain a strict zero-tolerance policy against piracy
+
+Legal action may be pursued against serial violators
+
+You agree to these terms upon key activation
