@@ -1,27 +1,3 @@
-TERMS OF SERVICE
-
-SINGLE USER LICENSE ONLY
-
-Each license key is valid for ONE user on ONE machine only
-
-Sharing, distributing, or reselling your key is strictly prohibited
-
-NO TRANSFERS OR SHARING
-
-Keys cannot be shared between multiple users
-
-Keys cannot be transferred to other individuals
-
-Any unauthorized sharing will result in immediate key termination
-
-STRICT MONITORING
-
-All key usage is monitored and logged
-
-Our system automatically detects multiple usage attempts
-
-Suspicious activity triggers immediate investigation
-
 CONSEQUENCES FOR VIOLATIONS
 
 First violation: Warning and key suspension
