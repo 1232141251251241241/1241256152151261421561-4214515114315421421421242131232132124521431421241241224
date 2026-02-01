@@ -1,2 +1,3 @@
-Currently catware is in beta.
-Sorry if there is bugs will be fixed soon.
+V1.1 Changelog:
+-Bug fixes
+-New mouse method
