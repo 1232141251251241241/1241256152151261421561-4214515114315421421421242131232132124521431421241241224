@@ -1,1 +1,0 @@
-hi, please ensure you are running this script when r6 is fully loaded.
